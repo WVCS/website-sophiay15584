@@ -1,1 +1,45 @@
+body {
+  background-color: #2E1C2B;
+}
+
+h1 {
+  color: #EAEAEA;
+  font-size: 300%;
+  font-style: oblique;
+  text-decoration: overline underline #D487B6 double 3px;
+  letter-spacing: 3px;
+}
+
+h1:hover {
+  color: #FFFFFF;
+  text-decoration: overline underline #E3B5D2 double 3px;
+}
+
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #140a11;
+  left: 0;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-variant: small-caps;
+  font-size: 19px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #663457;
+}
 
